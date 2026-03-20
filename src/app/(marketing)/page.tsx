@@ -1,7 +1,5 @@
 "use client"
 
-export const dynamic = 'force-dynamic';
-
 import { HeroSection } from '@/components/sections/HeroSection';
 import { USPSection } from '@/components/sections/USPSection';
 import { LifeJourneySection } from '@/components/sections/LifeJourneySection';
